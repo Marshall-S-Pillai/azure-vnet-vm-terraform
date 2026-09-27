@@ -1,0 +1,6 @@
+location           = "Central India"
+name_prefix        = "demo"
+vm_size            = "Standard_B1s"
+admin_username     = "azureuser"
+allowed_ssh_source = "*" # replace with "x.x.x.x/32" (your public IP) for production
+# subscription_id  = "00000000-0000-0000-0000-000000000000"
